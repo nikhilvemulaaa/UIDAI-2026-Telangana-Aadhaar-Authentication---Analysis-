@@ -144,8 +144,7 @@ Designed to be **jury-friendly, policy-ready, and citizen-centric**.
 ## 🖼 Dashboard Screenshots
 
 Below are key dashboard views showcasing the **Aadhaar Service Intelligence System (ASIS)**. Screenshots are ordered **from last dashboard page to first**, following the final storytelling flow used in evaluation.
-
-https://github.com/nikhilvemulaaa/UIDAI-2026-Telangana-Aadhaar-Authentication---Analysis-/blob/5bc1ef5ae946146a35c12637f6249ac9c0b40d0c/Screenshot%202026-01-16%20172712.png
+https://image2url.com/r2/default/images/1769621544184-c1792ff5-c8da-4c6a-a3c8-8d40a4056abc.png
 
 ## 👤 Author
 
