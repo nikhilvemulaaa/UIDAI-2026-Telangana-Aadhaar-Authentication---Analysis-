@@ -5,7 +5,7 @@
 A professional Power BI analytics project built for a UIDAI-focused hackathon. This dashboard analyzes **anonymised Aadhaar enrolment and update data for Telangana**, transforming raw datasets into actionable governance intelligence.
 
 ---
-https://image2url.com/r2/default/images/1769621781676-11278511-9012-484e-aaad-3cd2ccf15de7.jpg
+
 ## 📌 Project Objective
 
 The objective of this project is to:
