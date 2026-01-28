@@ -5,7 +5,7 @@
 A professional Power BI analytics project built for a UIDAI-focused hackathon. This dashboard analyzes **anonymised Aadhaar enrolment and update data for Telangana**, transforming raw datasets into actionable governance intelligence.
 
 ---
-
+Dashboard link : https://github.com/nikhilvemulaaa/UIDAI-2026-Telangana-Aadhaar-Authentication---Analysis-/blob/4ca04948517e09da6f3299e3ca7626e59062e258/Screenshot%202026-01-16%20172712.png
 ## 📌 Project Objective
 
 The objective of this project is to:
@@ -140,11 +140,6 @@ Designed to be **jury-friendly, policy-ready, and citizen-centric**.
 * Real-time dashboard using live UIDAI feeds
 
 ---
-
-## 🖼 Dashboard Screenshots
-
-Below are key dashboard views showcasing the **Aadhaar Service Intelligence System (ASIS)**. Screenshots are ordered **from last dashboard page to first**, following the final storytelling flow used in evaluation.
-https://image2url.com/r2/default/images/1769621544184-c1792ff5-c8da-4c6a-a3c8-8d40a4056abc.png
 
 ## 👤 Author
 
