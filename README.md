@@ -145,37 +145,7 @@ Designed to be **jury-friendly, policy-ready, and citizen-centric**.
 
 Below are key dashboard views showcasing the **Aadhaar Service Intelligence System (ASIS)**. Screenshots are ordered **from last dashboard page to first**, following the final storytelling flow used in evaluation.
 
-### 1️⃣ Executive KPI Overview – ASIS Control Panel
-
-![ASIS KPI Overview](images/asis_kpi_overview.png)
-
-> Displays core KPIs including **District Aadhaar Load, Youth Aadhaar, Digital Inclusion Score, Daily Aadhaar Demand**, and demographic split (Adult % vs Youth %).
-
----
-
-### 2️⃣ Geo-Spatial & District Intelligence View
-
-![ASIS Geo District View](images/asis_geo_district.png)
-
-> Highlights **Pincode Load hotspots**, district-wise Aadhaar load comparison, and digital inclusion scores for operational planning.
-
----
-
-### 3️⃣ Aadhaar Demand & Dependency Analysis
-
-![ASIS Demand Dependency](images/asis_demand_dependency.png)
-
-> Focuses on **Daily Aadhaar Demand**, Aadhaar Dependency Index, and district contribution tables to assess citizen reliance on UIDAI services.
-
----
-
-### 4️⃣ Raw Data Model Snapshot (UIDAI DATA)
-
-![UIDAI Data Model](images/uidai_data_model.png)
-
-> Represents the cleaned and structured UIDAI dataset used for analysis, including **Date, District, Pincode, Age 5–17, and Age Above 17** attributes.
-
----
+https://github.com/nikhilvemulaaa/UIDAI-2026-Telangana-Aadhaar-Authentication---Analysis-/blob/5bc1ef5ae946146a35c12637f6249ac9c0b40d0c/Screenshot%202026-01-16%20172712.png
 
 ## 👤 Author
 
